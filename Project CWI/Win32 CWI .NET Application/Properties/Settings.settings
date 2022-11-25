@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Win32_CWI.NET_Application.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PythonVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RESET</Value>
+    </Setting>
+    <Setting Name="PythonMinVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.10</Value>
+    </Setting>
+    <Setting Name="DKCUIVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="DKCVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="DownloadURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
