@@ -1,0 +1,2 @@
+start DKCUI.exe
+stop
