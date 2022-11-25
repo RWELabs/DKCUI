@@ -1,0 +1,18 @@
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32 CWI .NET Application.csproj.AssemblyReference.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32 CWI .NET Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32 CWI .NET Application.csproj.ResolveComReference.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32_CWI.NET_Application.Setup.resources
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32_CWI.NET_Application.Splash.resources
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32_CWI.NET_Application.Properties.Resources.resources
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32 CWI .NET Application.csproj.GenerateResource.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32 CWI .NET Application.csproj.CoreCompileInputs.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\bin\Debug\Win32_CWI.NET_Application.exe.config
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\bin\Debug\Win32_CWI.NET_Application.exe
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\bin\Debug\Win32_CWI.NET_Application.pdb
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\bin\Debug\Interop.WMPLib.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32_CWI.NET_Application.exe
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Win32 CWI .NET Application\obj\Debug\Win32_CWI.NET_Application.pdb
