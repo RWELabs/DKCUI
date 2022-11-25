@@ -15,7 +15,6 @@ DKCUI comes with the ability to check for updates, not only for DKCUI but for th
 ### Command Line
 DKCUI gives you full access to the Python command line as you interface with the DKC Toolbox. You can provide DKC Toolbox commands from the DKCUI application.
 
-#### Commands
 <details>
     <summary>Full commands list</summary>
 
@@ -35,6 +34,9 @@ DKCUI gives you full access to the Python command line as you interface with the
 | 10    | export_gangplank_palette_image | <rom_path> <palette_address> <sub_table_address> <palette_a_output_image_path> <palette_b_output_image_path>                     |
 
 </details>
+
+### UI Based Commands (Coming Soon)
+There are plans to implement some step by step UI methods to parse commands without having to type a command. We're currently looking at using the Windows File Browser popups to autofill file paths for import and export directories, for example. These are features that will come over time.
 
 ## What is DKC Toolbox?
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
