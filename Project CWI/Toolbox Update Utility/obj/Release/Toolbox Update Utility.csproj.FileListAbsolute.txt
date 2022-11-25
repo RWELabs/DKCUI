@@ -1,0 +1,15 @@
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\tbupdate.exe.config
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\tbupdate.exe
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\tbupdate.pdb
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\DotNetZip.dll
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\DotNetZip.pdb
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\bin\Release\DotNetZip.xml
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox Update Utility.csproj.AssemblyReference.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox Update Utility.csproj.SuggestedBindingRedirects.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox_Update_Utility.Form1.resources
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox_Update_Utility.Properties.Resources.resources
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox Update Utility.csproj.GenerateResource.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox Update Utility.csproj.CoreCompileInputs.cache
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\Toolbox Update Utility.csproj.CopyComplete
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\tbupdate.exe
+C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Project CWI\Toolbox Update Utility\obj\Release\tbupdate.pdb
