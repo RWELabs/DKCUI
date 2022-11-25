@@ -16,6 +16,9 @@ DKCUI comes with the ability to check for updates, not only for DKCUI but for th
 DKCUI gives you full access to the Python command line as you interface with the DKC Toolbox. You can provide DKC Toolbox commands from the DKCUI application.
 
 #### Commands
+<details>
+    <summary>Full commands list</summary>
+
 | **#** | **Command**                    | **Usage**              |
 |-------|--------------------------------|------------------------|
 | x     | exit                           | (exits the application) |
@@ -31,8 +34,11 @@ DKCUI gives you full access to the Python command line as you interface with the
 | 9     | import_gangplank_palette_image | <image_a_path> <image_b_path> <rom_path> <palette_address> <sub_table_address>                     |
 | 10    | export_gangplank_palette_image | <rom_path> <palette_address> <sub_table_address> <palette_a_output_image_path> <palette_b_output_image_path>                     |
 
+</details>
+
 ## What is DKC Toolbox?
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 The DKC Toolbox is a tool written in Python designed to provide basic data conversion and IO for the Donkey Kong Country SNES Trilogy. It was designed to be the successor to BMP2SNES. Noteable features include being able to import and export a variety of unique DKC formats like colour palettes.
 
 DKC Toolbox was released by [H4v0c21](https://www.github.com/H4v0c21/DKC-Toolbox) as a console based program that had no GUI. Commands can be fed to the program through the command line. DKCUI was introduced to parse these commands through a graphical user interface, in an attempt to be more user friendly.
