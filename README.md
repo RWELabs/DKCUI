@@ -5,6 +5,9 @@
 ### What is DKCUI?
 DKCUI is a graphical user interface frontend to the [DKC Toolbox](https://www.github.com/H4v0c21/DKC-Toolbox) framework by [H4v0c21](https://www.github.com/H4v0c21/). DKCUI is an application that seeks to parse commands through a graphical user interface to the DKC Toolbox, in an attempt to make using the DKC Toolbox framework more user friendly.
 
+### Download
+<a href="https://github.com/RWELabs/DKCUI/releases/latest"> <img src="https://raw.githubusercontent.com/RWELabs/DKCUI/main/Resources/Download_Windows.png" height=48px></a>
+
 ## Unique Features
 ### Setup and Install
 DKCUI comes with a standard Windows installation wizard, as most users will be familiar with. This will guide the user through installing the application on Windows based machines. Once the application is installed, the application will undergo a 'first-run setup', where it will intialise and run a few checks to ensure that the software is going to work. This includes but is not limited to; the extracting of DKC Toolbox, Initialising Python and ensuring that the Python installation is of a compatible version and downloading any required Python dependencies. This first run setup may be required when updating to a new version of the DKCUI application.
