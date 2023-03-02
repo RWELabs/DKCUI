@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "DKCUI"
-#define MyAppVersion "0.01"
+#define MyAppVersion "0.02"
 #define MyAppPublisher "RWE Labs"
 #define MyAppURL "https://labs.ryanwalpole.com/"
 #define MyAppExeName "DKCUI.exe"
@@ -21,8 +21,8 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName=C:\Program Files (x86)\RWE Labs\{#MyAppName}
 DisableDirPage=yes
 DisableProgramGroupPage=yes
-LicenseFile=C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Resources\license.rtf
-InfoBeforeFile=C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Resources\requirements.rtf
+LicenseFile=I:\DKCUIEULA.rtf
+InfoBeforeFile=I:\DKCUIREQ.rtf
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputDir=C:\Users\rwalpole\Documents\GitHub\DKC-Toolbox\Resources
