@@ -9,7 +9,7 @@
       <Value Profile="(Default)">3.10</Value>
     </Setting>
     <Setting Name="DKCUIVersion" Type="System.String" Scope="User">
-      <Value Profile="(Default)">0.01</Value>
+      <Value Profile="(Default)">0.02</Value>
     </Setting>
     <Setting Name="DKCVersion" Type="System.String" Scope="User">
       <Value Profile="(Default)">Unknown</Value>
