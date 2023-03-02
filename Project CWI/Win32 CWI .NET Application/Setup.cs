@@ -71,19 +71,31 @@ namespace Win32_CWI.NET_Application
             pycheck.RedirectStandardOutput = true;
             pycheck.CreateNoWindow = true;
 
-            using (Process process = Process.Start(pycheck))
+            try
             {
-                using (StreamReader reader = process.StandardOutput)
+                using (Process process = Process.Start(pycheck))
                 {
-                    string result = reader.ReadToEnd();
-                    //PythonVersion.Text = result.Replace("Python ", null);
-                    Properties.Settings.Default.PythonVersion = result.Replace("Python ", null);
+                    using (StreamReader reader = process.StandardOutput)
+                    {
+                        string result = reader.ReadToEnd();
+                        //PythonVersion.Text = result.Replace("Python ", null);
+                        Properties.Settings.Default.PythonVersion = result.Replace("Python ", null);
+                        Properties.Settings.Default.Save();
 
-                    Task.Factory.StartNew(() => { Thread.Sleep(25); process.Kill(); });
+                        Task.Factory.StartNew(() => { Thread.Sleep(25); process.Kill(); });
 
-                    CheckPython();
+                        CheckPython();
+                    }
                 }
             }
+            catch
+            {
+                //Assume that Python is not installed, as per Issue #3 (https://github.com/RWELabs/DKCUI/issues/3#issuecomment-1451052928)
+                Properties.Settings.Default.PythonVersion = null;
+                Properties.Settings.Default.Save();
+                CheckPython();
+            }
+            
         }
 
         private void CheckPython()
