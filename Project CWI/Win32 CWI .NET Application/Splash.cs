@@ -18,6 +18,8 @@ namespace Win32_CWI.NET_Application
         {
             InitializeComponent();
 
+            this.Text = "DKCUI [v" + Properties.Settings.Default.DKCUIVersion + "]";
+
             string AppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
             string LabsAppData = AppData + @"\RWE Labs\DKC-Toolbox\splash.mp4";
             SplashMedia.URL = LabsAppData;
