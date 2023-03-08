@@ -49,7 +49,7 @@ namespace Win32_CWI.NET_Application.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0.02")]
+        [global::System.Configuration.DefaultSettingValueAttribute("0.03")]
         public string DKCUIVersion {
             get {
                 return ((string)(this["DKCUIVersion"]));

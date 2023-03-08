@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "DKCUI"
-#define MyAppVersion "0.02"
+#define MyAppVersion "0.03"
 #define MyAppPublisher "RWE Labs"
 #define MyAppURL "https://labs.ryanwalpole.com/"
 #define MyAppExeName "DKCUI.exe"
